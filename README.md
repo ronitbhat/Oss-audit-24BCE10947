@@ -1,25 +1,46 @@
-# Linux System Scripts
+# OSS Audit Project — Git
 
-A collection of useful Linux scripts built using Bash/Zsh for system monitoring and open-source learning.
+Open Source Software Audit project on Git - includes Linux shell scripts for system analysis, package inspection, directory auditing, log analysis, and open-source manifesto generation.
+
+===================================
+
+## Student Details
+
+- **Name:** Ronit Bhat  
+- **Registration Number:** 24BCE10947  
+- **Course:** Open Source Software  
 
 ---
 
-##  Scripts Included
+## Chosen Software
 
-### 1. System Identity Report
-Displays system information such as OS, kernel, uptime, and user details.
+**Git (Version Control System)**  
 
-### 2. Git Installation Checker
-Checks whether Git is installed and shows version details.
+:contentReference[oaicite:0]{index=0} is a distributed version control system used to track changes in source code and enable collaboration among developers.
 
-### 3. Directory Auditor
-Verifies existence of important system directories.
+---
 
-### 4. System Log Analyzer
-Analyzes system logs to count errors and warnings.
+## Project Overview
 
-### 5. Open Source Manifesto
-Displays principles of open-source software.
+This project explores Git from an open-source perspective and demonstrates Linux command-line skills using shell scripting.
+
+The repository contains **5 shell scripts** that perform:
+
+- System analysis  
+- Software inspection  
+- Directory auditing  
+- Log analysis  
+- Open-source manifesto generation  
+
+---
+
+## Scripts Included
+
+1. **System Identity Report**  
+2. **Git Installation Checker**  
+3. **Directory Auditor**  
+4. **System Log Analyzer**  
+5. **Open Source Manifesto**  
 
 ---
 
