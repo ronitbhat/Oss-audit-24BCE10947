@@ -16,7 +16,7 @@ Open Source Software Audit project on Git - includes Linux shell scripts for sys
 
 **Git (Version Control System)**  
 
-:contentReference[oaicite:0]{index=0} is a distributed version control system used to track changes in source code and enable collaboration among developers.
+Git is a distributed version control system used to track changes in source code and enable collaboration among developers.
 
 ---
 
